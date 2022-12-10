@@ -1,4 +1,6 @@
 trailingComma: "all"
 tabWidth: 4
-pluginSearchDirs:
-    - "."
+semi: true
+plugins:
+    - prettier-plugin-svelte
+    - prettier-plugin-tailwindcss

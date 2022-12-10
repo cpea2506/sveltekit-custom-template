@@ -8,12 +8,10 @@ const config = {
     preprocess: preprocess({ postcss: true }),
 
     kit: {
-        trailingSlash: "always",
         adapter: adapter(),
         alias: {
             $components: "src/lib/components",
-            $types: "src/lib/types",
-            $styles: "src/lib/styles",
+            $api: "src/lib/server/api",
             $routes: "src/routes",
         },
     },
