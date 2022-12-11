@@ -2,6 +2,21 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
+## What?
+
+This project comes with `Typescript` by default. (~~Yes, who want Javascript?~~)
+
+### Tools
+
+All have been configured so that you nearly don't need to touch any of its config.
+
+-   Axios
+-   Svelte Hero-icons
+-   Tailwindcss
+-   Husky
+-   Eslint
+-   Prettier
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
